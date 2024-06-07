@@ -1,0 +1,11 @@
+//클라
+TypeScript
+React
+Next.js  =>    AngularJs : MVC  <-> React : V + MC[Next.js] 
+
+// 서버
+Java
+DB
+Spring-Boot
+Swagger
+AWS or Azure 배포
